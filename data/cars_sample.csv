@@ -1,0 +1,7 @@
+id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+7316814884,auburn,33590,2014,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,57923,clean,other,3GTP1VEC4EG551563,,,pickup,white,al
+7316814758,auburn,22590,2010,chevrolet,silverado 1500,good,8 cylinders,gas,71229,clean,other,1GCSCSE06AZ123805,,,pickup,blue,al
+7316814989,auburn,39590,2020,chevrolet,silverado 1500 crew,good,8 cylinders,gas,19160,clean,other,3GCPWCED5LG130317,,,pickup,red,al
+7316743432,auburn,30990,2017,toyota,tundra double cab sr,good,8 cylinders,gas,41124,clean,other,5TFRM5F17HX120972,,,pickup,red,al
+7316356412,auburn,15000,2013,ford,f-150 xlt,excellent,6 cylinders,gas,128000,clean,automatic,,rwd,full-size,truck,black,al
+7316343444,auburn,27990,2012,gmc,sierra 2500 hd extended cab,good,8 cylinders,gas,68696,clean,other,1GT220CG8CZ231238,4wd,,pickup,black,al
